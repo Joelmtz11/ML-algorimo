@@ -10,8 +10,7 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/neural-network-from-scratch.git
-# ML-algorimo
-Aquí hare un Modelo de Machine Learning sin uso de librerias
+
 cd neural-network-from-scratch
 python neural_network.py
 Dependencies
@@ -47,6 +46,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 vbnet
 Copy code
 
-Remember to replace `your-username` with your actual GitHub username. This README provides an overview of the project, instructions for getting started, dependencies, project structure, implementation details, how to adjust the network, contributing guidelines, and licensing information.
 
-Feel free to customize the README 
